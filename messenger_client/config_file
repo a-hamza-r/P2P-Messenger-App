@@ -1,2 +1,2 @@
-servhost: lelel
-servport: 1234
+servhost: 127.0.0.1
+servport: 5001
